@@ -19,6 +19,8 @@ public class User {
 //	}
 
 	public Integer getId() {
+		int i = 0;
+		i = i + 1;
 		return id;
 	}
 
